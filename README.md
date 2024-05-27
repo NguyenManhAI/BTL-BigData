@@ -1,6 +1,6 @@
 ### Naive Bayes Classifer
-Link bộ dữ liệu, thư viện sử dụng trong code, file jar được buid sẵn: [Link](https://drive.google.com/drive/folders/1sLJ6s0fKA4BZXDSFNkeVp8AzWEPQGufS?usp=drive_link) 
-Link ảnh, video demo: [Link](https://drive.google.com/drive/folders/1iUgsEYHMDoR_udNACCFmdAFS6GZZ2LvR?usp=drive_link)
+- Link bộ dữ liệu, thư viện sử dụng trong code, file jar được buid sẵn: [Link](https://drive.google.com/drive/folders/1sLJ6s0fKA4BZXDSFNkeVp8AzWEPQGufS?usp=drive_link) 
+- Link ảnh, video demo: [Link](https://drive.google.com/drive/folders/1iUgsEYHMDoR_udNACCFmdAFS6GZZ2LvR?usp=drive_link)
 
 ## Giới thiệu:
 - Các tài liệu liên có trong dự án, bao gồm:
