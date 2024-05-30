@@ -22,9 +22,9 @@
 ## Pipeline data (Preprocessing):
 ![pipeline_data](image/pipeline%20data.png)
 ## Chạy nhanh với bộ dữ liệu SA VLSP 2016:
-- TrainVie.csv:
+- TrainVie.csv
 ![TrainVie.csv](image/TrainVie.png)
-- TestVie.csv:
+- TestVie.csv
 ![TestVie.csv](image/TestVie.png)
 - Kết quả: Accuracy: 63.5%
 ![Result](image/result.png)
