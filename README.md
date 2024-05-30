@@ -17,6 +17,10 @@
 - Lưu ý về file Train, Test:
     + file Train: mỗi dòng là 1 cặp Text, class, cách nhau bởi dấu `<tab>`
     + file Test: mỗi dòng là Text.
+## Luồng hoạt động hệ thống:
+![workflow](image/workflow.png)
+## Pipeline data:
+![pipeline_data](image/pipeline%20data.png)
 ## Các phiên bản kèm theo:
 - Java 11 (openjdk 11.0.22 2024-01-16)
 - Hadoop 3.4.0.
